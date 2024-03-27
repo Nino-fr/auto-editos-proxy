@@ -23,7 +23,6 @@
   "files": [
     "lib/",
     "Procfile",
-    "demo.html",
     "server.js"
   ],
   "dependencies": {
